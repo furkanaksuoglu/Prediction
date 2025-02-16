@@ -1,0 +1,5 @@
+Mean Absolute Error (MAE): 0.0925
+Mean Squared Error (MSE): 0.0130
+Root Mean Squared Error (RMSE): 0.1140
+R² Score: 0.9960
+Explained Variance Score: 0.9960
